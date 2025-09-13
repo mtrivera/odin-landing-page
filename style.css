@@ -11,3 +11,7 @@
 .nav ul {
   list-style-type: none;
 }
+
+.top-nav {
+  display: flex;
+}
