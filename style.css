@@ -7,3 +7,7 @@
   display: flex;
   justify-content: space-around;
 }
+
+.nav ul {
+  list-style-type: none;
+}
