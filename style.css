@@ -15,3 +15,7 @@
 .top-nav {
   display: flex;
 }
+
+.top-nav li {
+  margin: 0 1rem;
+}
