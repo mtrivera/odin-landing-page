@@ -19,3 +19,12 @@
 .top-nav li {
   margin: 0 1rem;
 }
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-content {
+  width: 400px;
+}
