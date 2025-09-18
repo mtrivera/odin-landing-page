@@ -67,3 +67,22 @@
   width: inherit;
   justify-content: end;
 }
+
+.cta-banner-container {
+  display: flex;
+  width: 600px;
+  flex-flow: column wrap;
+}
+
+.cta-copy-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.cta-content-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
