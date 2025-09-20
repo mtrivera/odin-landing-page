@@ -1,3 +1,10 @@
+:root {
+  --primary-bg: #1f2937;
+  --cta-bg: #3882f6;
+  --quote-bg: #e5e7eb;
+  --hero-text: #f9faf8;
+}
+
 .container {
   display: flex;
   flex-flow: column nowrap;
