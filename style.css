@@ -159,3 +159,9 @@
   font-size: 18px;
   text-decoration: none;
 }
+
+.header {
+  background: var(--primary-bg);
+  color: var(--hero-text);
+  padding-bottom: 5rem;
+}
