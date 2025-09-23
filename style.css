@@ -180,3 +180,7 @@
   background: var(--cta-bg);
   color: var(--hero-text);
 }
+
+.hero-copy {
+  margin-bottom: 1rem;
+}
