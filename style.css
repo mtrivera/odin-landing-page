@@ -169,3 +169,14 @@
 .hero-heading {
   font-size: 48px;
 }
+
+.btn {
+  text-decoration: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+}
+
+.btn-signup {
+  background: var(--cta-bg);
+  color: var(--hero-text);
+}
