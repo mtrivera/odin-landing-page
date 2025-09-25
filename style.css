@@ -190,3 +190,8 @@
   color: var(--primary-bg);
   margin-top: 1rem;
 }
+
+.figure-container figcaption {
+  color: var(--primary-bg);
+  text-align: center;
+}
