@@ -199,3 +199,7 @@
   color: var(--primary-bg);
   text-align: center;
 }
+
+.quote-content {
+  background: var(--quote-bg);
+}
