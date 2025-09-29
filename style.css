@@ -228,6 +228,7 @@
   height: 300px;
   justify-content: center;
   align-items: center;
+  color: var(--hero-text);
 }
 
 .cta-banner-container {
