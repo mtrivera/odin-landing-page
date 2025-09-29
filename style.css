@@ -253,3 +253,8 @@
   border: 3px solid var(--hero-text);
   color: var(--hero-text);
 }
+
+.footer {
+  color: var(--hero-text);
+  background: var(--primary-bg);
+}
