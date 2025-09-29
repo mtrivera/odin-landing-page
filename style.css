@@ -248,3 +248,8 @@
 .cta-heading {
   width: 300px;
 }
+
+.btn-cta {
+  border: 3px solid var(--hero-text);
+  color: var(--hero-text);
+}
