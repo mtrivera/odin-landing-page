@@ -11,6 +11,7 @@
 }
 
 .nav {
+  height: 100px;
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
