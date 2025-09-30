@@ -217,6 +217,8 @@
 }
 
 .quote-text {
+  width: 800px;
+  line-height: 1.2;
   font-size: 36px;
   font-style: italic;
   color: var(--primary-bg);
